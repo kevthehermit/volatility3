@@ -6,3 +6,4 @@ sphinx-rtd-theme>=0.4.3
 yara-python
 pycryptodome
 pefile
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
